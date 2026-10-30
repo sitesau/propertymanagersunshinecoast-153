@@ -1,0 +1,22 @@
+{
+  "wheel_id": 517,
+  "structure": "umbrella",
+  "slug": "propertymanagersunshinecoast-153",
+  "project": "rental-property-managers-sunshine-coast-e94eb2134b6b4d6f7f9802b",
+  "parent_t1_ref": "propertymanagersunshinecoast-013",
+  "node_role": "buffer",
+  "money_target": "propertymanagersunshinecoast.com.au",
+  "primary_kw": "rental property managers sunshine coast",
+  "intended_url": "http://rental-property-managers-sunshine-coast-e94eb2134b6b4d6f7f9802b.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "0d9fa7fa15b5b4e1",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/propertymanagersunshinecoast-013/",
+      "anchor": "Rental Property Managers Sunshine Coast: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
